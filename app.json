@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Expo Router 51694 Repro",
+    "slug": "expo-router-51694-repro",
+    "scheme": "repro51694",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
